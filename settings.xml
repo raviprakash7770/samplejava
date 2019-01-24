@@ -49,7 +49,7 @@
     </profile>
   </profiles>
   <activeProfiles>
-    <!--make the profile active all the time -->
+    <!--make the profile tactive all the time -->
     <activeProfile>nexus</activeProfile>
   </activeProfiles>
 </settings>
