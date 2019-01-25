@@ -42,9 +42,9 @@
 	      <activeByDefault>true</activeByDefault>
 	   </activation>
 	   <properties>
-	      <sonar.jdbc.url>jdbc:h2:tcp://localhost:9092/sonar</sonar.jdbc.url>
+	      <sonar.jdbc.url>jdbc:h2:tcp://34.73.130.55:9092/sonar</sonar.jdbc.url>
 	      <!-- SERVER ON A REMOTE HOST -->
-	      <sonar.host.url>http://localhost:9000</sonar.host.url>
+	      <sonar.host.url>http://34.73.130.55:9000</sonar.host.url>
 	   </properties>
     </profile>
   </profiles>
